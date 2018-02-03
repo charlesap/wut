@@ -21,3 +21,17 @@
 //  ----------------------------------------------------------------------
 // 
 
+
+package main
+
+import "fmt"
+import "github.com/charlesap/wut"
+
+
+
+func  main(){
+
+  wut.Initialize()
+  fmt.Println("izit version 0.0.0")
+
+}

@@ -21,3 +21,24 @@
 //  ----------------------------------------------------------------------
 // 
 
+
+package wut
+
+type RandomDistributedScalarEncoder struct {
+    w int64
+    n int64
+    minIndex int64
+    maxIndex int64
+    offset float64
+    oidx int64
+    resolution float64
+    name string
+    verbosity int64
+    maxoverlap int64
+    random int64
+    bucketmap int64
+    numTries int64
+    maxBuckets int64
+}
+
+

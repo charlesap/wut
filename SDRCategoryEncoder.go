@@ -21,3 +21,12 @@
 //  ----------------------------------------------------------------------
 // 
 
+
+package wut
+
+type SDRCategoryEncoder struct {
+    w int64
+    n int64
+}
+
+

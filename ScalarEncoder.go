@@ -21,3 +21,23 @@
 //  ----------------------------------------------------------------------
 // 
 
+
+package wut
+
+type ScalarEncoder struct {
+    w int64
+    n int64
+    minval float64
+    maxval float64
+    periodic bool
+    radius float64
+    resolution float64
+    name string
+    verbosity int64
+    clipInput bool
+    forced bool
+    padding int64
+    srange float64
+}
+
+

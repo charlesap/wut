@@ -21,3 +21,32 @@
 //  ----------------------------------------------------------------------
 // 
 
+
+package wut
+
+type DateEncoder struct {
+    w int64
+    n int64
+    season int64
+    dayOfWeek int64
+    weekend int64
+    holiday int64
+    timeOfDay int64
+    customDays int64
+    name string
+    forced bool
+    sE ScalarEncoder
+    sEo int64
+    dE ScalarEncoder
+    dEo int64
+    wE ScalarEncoder
+    wEo int64
+    hE ScalarEncoder
+    hEo int64
+    tE ScalarEncoder
+    tEo int64
+    cE ScalarEncoder
+    cEo int64
+}
+
+

@@ -21,3 +21,12 @@
 //  ----------------------------------------------------------------------
 // 
 
+
+package wut
+
+type GeospatialCoordinateEncoder struct {
+    w int64
+    n int64
+}
+
+
