@@ -24,6 +24,22 @@
 
 package wut
 
+import "AbstractEncoder"
+import "AdaptiveScalarEncoder"
+import "CategoryEncoder"
+import "CoordinateEncoder"
+import "DateEncoder"
+import "DeltaEncoder"
+import "GeospatialCoordinateEncoder"
+import "LogEncoder"
+import "MultiEncoder"
+import "PassThroughEncoder"
+import "RandomDistributedScalarEncoder"
+import "SDRCategoryEncoder"
+import "ScalarEncoder"
+import "ScalarSpaceEncoder"
+import "SparsePassThroughEncoder"
+
 func Initialize(){
 
 }
