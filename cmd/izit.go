@@ -25,7 +25,7 @@
 package main
 
 import "fmt"
-import "github.com/charlesap/wut"
+import "github.com/charlesap/wutgo"
 
 
 
