@@ -24,4 +24,11 @@
 
 package wut
 
+func Encode() {
+}
+func GetDisplayWidth() {
+}
+func Decode() {
+}
+
 

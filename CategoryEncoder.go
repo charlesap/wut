@@ -24,6 +24,7 @@
 
 package wut
 
+
 type CategoryEncoder struct {
     w int64
     n int64

@@ -24,8 +24,7 @@
 
 package wut
 
-func Initialize(){
-
+func Initialize() {
 }
 
 
